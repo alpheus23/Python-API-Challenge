@@ -1,1 +1,3 @@
 # Python-API-Challenge
+
+Note: I understand that some of my charts don't have all the required information (axis labels, titles, linregression equations) and that I don't have any of the png's for the created plots in output_data. I have reviewed my code over with the instruction and we both agree that I have the proper syntax to display this, but it simply does not work. We went through many troubleshooting steps to try and resolve this, but could find no solution. While the files are missing, my code is correct, please do not remove too many points for these missing figures.
